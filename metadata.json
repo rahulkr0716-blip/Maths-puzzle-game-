@@ -1,0 +1,6 @@
+{
+  "name": "Maths Puzzle Game",
+  "description": "A simple, interactive, and beautifully designed math puzzle game for children featuring multiple game modes, levels, stars, interactive sound synthesis, and cute animal avatars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
